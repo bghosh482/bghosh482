@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4Wusj-XKBUEIlWzaJGBHU1sg8jiev9LIHw&usqp=CAU">
+<img align="right" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4Wusj-XKBUEIlWzaJGBHU1sg8jiev9LIHw&usqp=CAU](https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif)">
 <h1 align="center">Hi 👋, I'm Bubai Ghosh</h1>
 
 <h3 align="center">A passionate Java Full Stack Developer</h3>
