@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bghosh482&label=Profile%20views&color=0e75b6&style=flat" alt="bghosh482" /> </p>
 
-- 🌱 I’m currently learning **Masai School Full Stack Developer**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
