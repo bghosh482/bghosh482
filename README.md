@@ -14,7 +14,10 @@
 - 📫 How to reach me **bghosh482@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vhZHdIXVA0gdvoeyWfBsZh1mcNtbEg_p/view](https://drive.google.com/file/d/1vhZHdIXVA0gdvoeyWfBsZh1mcNtbEg_p/view)
-My Portfolio [https://bghosh482.github.io/](https://bghosh482.github.io/)
+
+
+- My Portfolio [https://bghosh482.github.io/](https://bghosh482.github.io/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
