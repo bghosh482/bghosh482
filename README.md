@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bghosh482&label=Profile%20views&color=0e75b6&style=flat" alt="bghosh482" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bghosh482" alt="bghosh482" /></a> </p>
+
 
 - 🔭 I’m currently working on **Console bases project**
 
