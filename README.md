@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Console bases project**
+- 🔭 I’m currently working on **Spring based project**
 
 - 🌱 I’m currently learning **java,spring boot,mysql**
 
