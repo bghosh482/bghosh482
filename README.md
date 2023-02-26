@@ -22,6 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bubai-ghosh-80b030139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bubai-ghosh-80b030139" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bghosh482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bghosh482" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bghosh482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bghosh482" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/bghosh482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bghosh482" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bghosh482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bghosh482" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
