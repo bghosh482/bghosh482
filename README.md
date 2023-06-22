@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bghosh482@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vhZHdIXVA0gdvoeyWfBsZh1mcNtbEg_p/view](https://drive.google.com/file/d/1vhZHdIXVA0gdvoeyWfBsZh1mcNtbEg_p/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x__qBudhMTHRLvrAkGeX9io__IUeeD-4/view?usp=drive_link](https://drive.google.com/file/d/1x__qBudhMTHRLvrAkGeX9io__IUeeD-4/view?usp=drive_link)
 
 
 - My Portfolio [https://bghosh482.github.io/](https://bghosh482.github.io/)
